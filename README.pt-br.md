@@ -1,7 +1,7 @@
 # Desafio Escrevendo as classes de um jogo
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md) 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/andr-machado/Writing-the-Classes-for-a-Game-DIO/blob/main/README.md) 
+
 
 Este código foi criado como parte do progrma "Potência Tech iFood - Programação do Zero" promovido pela [DIO](https://www.dio.me/).
 

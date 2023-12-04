@@ -1,7 +1,7 @@
 # Writing the Classes for a Game Challenge 
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md) 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/andr-machado/Writing-the-Classes-for-a-Game-DIO/blob/main/README.md) 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/andr-machado/Writing-the-Classes-for-a-Game-DIO/blob/main/README.pt-br.md)
 
 This code was created as a component of the "Programming from Scratch" course provided by [DIO](https://www.dio.me/).
 
